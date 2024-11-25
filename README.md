@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-- 🔭 I’m currently a master's student at Michigan Tech
  
 <!--
 
